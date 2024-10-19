@@ -1,0 +1,41 @@
+.container{
+    border: 1px solid black;
+    width: 100vh;
+    height: 400px;
+    position: relative;
+}
+.lbox{
+    
+    border: 1px solid blue;
+    height: 400px;
+    width: 50vh;
+    position:absolute;
+    border: none;
+}
+.rbox{
+    left: 55vh;
+    border: 1px solid red;
+    height: 400px;
+    width: 40vh;
+    position:absolute;
+    border: none;
+    text-align: justify;
+}
+.btn{
+    padding: 10px;
+    font-size: large;
+    font-style: oblique;
+}
+.clr{
+    color: springgreen;
+}
+    
+
+.btn span{
+    color: springgreen;
+}
+.para{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
